@@ -1,0 +1,6 @@
+color_way = (255, 255, 255)
+color_wall = (0, 0, 0)
+color_player = (0, 0, 255)
+color_start = (0, 255, 0)
+color_finish = (255, 0, 0)
+color_trace = (0, 0, 255)
