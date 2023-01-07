@@ -62,6 +62,7 @@ if __name__ == '__main__':
             print(queue)
             cur_node = queue.popleft()
             next_nodes = graph[cur_node]
+            print(next_nodes)
             for next_node in next_nodes:
                 if next_node not in visited:
                     queue.append(next_node)
